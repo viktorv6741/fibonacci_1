@@ -8,7 +8,7 @@ public class Main{
 	
 	static int a, b, c;
 	
-	public static void main(String... frogs){
+	public static void main(String... args){
 		
 		Scanner console = new Scanner(System.in);
 		
